@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![Efe Pehlivan](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full-Stack+%26+Mobile+App+Developer;Building+DoYaDi+%26+ZihNot;Exploring+Data+Science+%26+Local+LLMs" alt="Typing SVG" /></a>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Navilastro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/efe-pehlivan-529662247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=EfePehlivan&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :technologist: &nbsp;Hakkımda
 
@@ -22,7 +22,7 @@ Merhaba, ben Efe! Üniversitede bilgisayar bilimleri ve mühendislik alanında e
 
 Üniversite eğitimimde **Java** ve **Python** üzerinde ileri seviyeye ulaşırken; mobil uygulama mimarileri (Flutter), açık kaynaklı yerel dil modelleri (LLM), veri bilimi ve sistem güvenliği konularına büyük bir ilgi duyuyorum. Boş zamanlarımda retro donanımları modifiye etmeyi, donanım-yazılım entegrasyonları kurmayı ve teknoloji odaklı projeler geliştirmeyi seviyorum.
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :rocket: &nbsp;Öne Çıkan Projelerim
 
@@ -37,7 +37,6 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
 * **Teknik Altyapı:** Çapraz platform desteği ve yüksek performans sunan **Flutter** framework'ü kullanılarak, modern mobil uygulama mimarilerine uygun olarak geliştirilmektedir.
 
 <p align="center">
-  <!-- GitHub kullanıcı adın EfePehlivan ise ve repoların public ise bu kartlar profilinde otomatik olarak projelerinin istatistiklerini (yıldız, fork vb.) gösterecektir. -->
   <a href="https://github.com/EfePehlivan/DoYaDi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfePehlivan&repo=DoYaDi&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DoYaDi Repo" width="48%">
   </a>
@@ -46,7 +45,7 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
   </a>
 </p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :gear: &nbsp;Diğer Çalışmalarım & Eğitim Geçmişim
 
@@ -73,7 +72,7 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
   </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :wrench: &nbsp;Çalışma Alanları
 
@@ -101,7 +100,7 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :bar_chart: &nbsp;GitHub İstatistikleri
 
@@ -116,4 +115,4 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfePehlivan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
