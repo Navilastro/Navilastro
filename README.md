@@ -1,4 +1,4 @@
-![Efe Pehlivan](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![Navilastro](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full-Stack+%26+Mobile+App+Developer;Building+DoYaDi+%26+ZihNot;Exploring+Data+Science+%26+Local+LLMs" alt="Typing SVG" /></a>
@@ -18,9 +18,9 @@
 
 ## :technologist: &nbsp;Hakkımda
 
-Merhaba, ben Efe! Üniversitede bilgisayar bilimleri ve mühendislik alanında eğitim gören tutkulu bir yazılım geliştiricisiyim. İstanbul Ticaret Odası'ndan **C# ve Full-Stack Web Geliştirme** alanında ustalık belgemi aldım. 
+Merhaba, ben Efe! Biruni Üniversitesinde İngilizce bilgisayar mühendisliği okuyorum. Liseyi İstanbul Ticaret Odası Mesleki ve Teknik Anadolu Lisesinden bilişim teknolojileri ustalık belgemi aldım. 
 
-Üniversite eğitimimde **Java** ve **Python** üzerinde ileri seviyeye ulaşırken; mobil uygulama mimarileri (Flutter), açık kaynaklı yerel dil modelleri (LLM), veri bilimi ve sistem güvenliği konularına büyük bir ilgi duyuyorum. Boş zamanlarımda retro donanımları modifiye etmeyi, donanım-yazılım entegrasyonları kurmayı ve teknoloji odaklı projeler geliştirmeyi seviyorum.
+Üniversite eğitimimde **Java** ve **Python** üzerinde ileri seviyeye ulaşırken; açık kaynaklı yerel dil modelleri (LLM) ve veri bilimi konularına büyük bir ilgi duyuyorum. Boş zamanlarımda , donanım-yazılım entegrasyonları kurmayı ve teknoloji odaklı projeler geliştirmeyi seviyorum.
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -29,7 +29,7 @@ Merhaba, ben Efe! Üniversitede bilgisayar bilimleri ve mühendislik alanında e
 ### 🏎️ DoYaDi
 Mobil cihazların ivmeölçer (accelerometer) sensörlerini kullanarak PC oyunlarını kontrol etmeyi sağlayan, yenilikçi bir dokunmatik direksiyon ve kontrol uygulaması.
 * **Teknik Altyapı:** Mobil cihaz ile bilgisayar arasında düşük gecikmeli istemci-sunucu (client-server) haberleşme mimarisi üzerine inşa edilmiştir.
-* **Hassas Kontrol Dinamikleri:** İvmeölçer verilerinin normalizasyonu sağlanarak, cihazın dik ve kullanıcıya dönük konumu **70-50 derece** aktif açı aralığında çalışacak şekilde hassaslaştırılmış ve en gerçekçi sürüş deneyimi için optimize edilmiştir.
+* **Hassas Kontrol Dinamikleri:** İvmeölçer verilerinin normalizasyonu sağlanarak, cihazın dik ve kullanıcıya dönük konumu aktif açı aralığında çalışacak şekilde hassaslaştırılmış ve en gerçekçi sürüş deneyimi için optimize edilmiştir.
 * **Süreç:** Baştan sona donanım-yazılım entegrasyonu gözetilerek, versiyon kontrol sistemleri (GitHub) üzerinden aktif olarak geliştirilmektedir.
 
 ### 📱 ZihNot
@@ -54,19 +54,18 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
     <td width="50%" valign="top">
       <h4>:hammer_and_wrench: Donanım & Sistem</h4>
       <ul>
-        <li><strong>Retro Entegrasyonlar:</strong> Eski nesil taşınabilir konsolları (örn. PSP) PC kontrolcüsüne dönüştürme ve FTP sunucusu olarak yerel ağda kullanma yapılandırmaları.</li>
-        <li><strong>Sistem Güvenliği:</strong> Çekirdek izolasyonu, üçüncü parti sürücü analizleri ve yerel ağ güvenliği üzerine kişisel araştırmalar.</li>
         <li><strong>Yerel LLM:</strong> Açık kaynaklı büyük dil modellerini (LLM) yerel cihazlarda çalıştırma ve optimize etme denemeleri.</li>
+        <li>API ile yapay zekayı uygulamalara entegre etme çeşitleri hakkında denemeler</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>:mortar_board: Sertifikalar & Eğitimler</h4>
       <ul>
-        <li><strong>İstanbul Ticaret Odası</strong> — C# ve Full-Stack Web Geliştirme Ustalık Belgesi</li>
+        <li><strong>İstanbul Ticaret Odası Mesleki ve Teknik Anadolu Lisesi</strong> — Bilişim Teknolojileri Ustalık Belgesi</li>
         <li><strong>Miuul</strong> — Veri Bilimi ve Makine Öğrenmesi</li>
         <li><strong>Miuul</strong> — Python Programlama ve Yazılım Geliştirme</li>
         <li><strong>Miuul</strong> — Veritabanı Yönetimi ve Programlama</li>
-        <li><strong>Üniversite Eğitimi</strong> — İleri Seviye Java ve Python</li>
+        <li><strong>Üniversite Eğitimi</strong> — Bilgisayar Mühendisliği</li>
       </ul>
     </td>
   </tr>
@@ -82,7 +81,6 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
 ![Mobile Dev](https://img.shields.io/badge/Mobile_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science_&_ML-F7931E?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![System Security](https://img.shields.io/badge/System_Security-E34F26?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -105,14 +103,14 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
 ## :bar_chart: &nbsp;GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EfePehlivan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfePehlivan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navilastro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navilastro&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfePehlivan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navilastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
