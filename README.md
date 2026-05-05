@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full-Stack+%26+Mobile+App+Developer;Building+DoYaDi+%26+ZihNot;Exploring+Data+Science+%26+Local+LLMs" alt="Typing SVG" /></a>
