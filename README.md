@@ -1,4 +1,4 @@
-![Navilastro](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Efe%20Pehlivan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![Navilastro](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Navilastro&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Full-Stac%20Web%20Developerk%20%26%20Flutter%20%7C%20CS%20Student&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full-Stack+%26+Mobile+App+Developer;Building+DoYaDi+%26+ZihNot;Exploring+Data+Science+%26+Local+LLMs" alt="Typing SVG" /></a>
@@ -20,7 +20,7 @@
 
 Merhaba, ben Efe! Biruni Üniversitesinde İngilizce bilgisayar mühendisliği okuyorum. Liseyi İstanbul Ticaret Odası Mesleki ve Teknik Anadolu Lisesinden bilişim teknolojileri ustalık belgemi aldım. 
 
-Üniversite eğitimimde **Java** ve **Python** üzerinde ileri seviyeye ulaşırken; açık kaynaklı yerel dil modelleri (LLM) ve veri bilimi konularına büyük bir ilgi duyuyorum. Boş zamanlarımda , donanım-yazılım entegrasyonları kurmayı ve teknoloji odaklı projeler geliştirmeyi seviyorum.
+Üniversite eğitimimde **Java** ve **Python** üzerinde ileri seviyeye ulaşırken; açık kaynaklı yerel dil modelleri (LLM) ve veri bilimi konularına büyük bir ilgi duyuyorum. Boş zamanlarımda, donanım-yazılım entegrasyonları kurmayı ve teknoloji odaklı projeler geliştirmeyi seviyorum.
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -37,11 +37,11 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
 * **Teknik Altyapı:** Çapraz platform desteği ve yüksek performans sunan **Flutter** framework'ü kullanılarak, modern mobil uygulama mimarilerine uygun olarak geliştirilmektedir.
 
 <p align="center">
-  <a href="https://github.com/EfePehlivan/DoYaDi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfePehlivan&repo=DoYaDi&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DoYaDi Repo" width="48%">
+  <a href="https://github.com/Navilastro/DoYaDi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilastro&repo=DoYaDi&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DoYaDi Repo" width="48%">
   </a>
-  <a href="https://github.com/EfePehlivan/ZihNot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EfePehlivan&repo=ZihNot&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ZihNot Repo" width="48%">
+  <a href="https://github.com/Navilastro/ZihNot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilastro&repo=ZihNot&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ZihNot Repo" width="48%">
   </a>
 </p>
 
