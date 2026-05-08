@@ -103,14 +103,14 @@ Modern yazılım prensipleriyle tasarlanmış, akıcı ve kullanıcı dostu bir 
 ## :bar_chart: &nbsp;GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navilastro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?user=Navilastro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navilastro&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navilastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Navilastro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
